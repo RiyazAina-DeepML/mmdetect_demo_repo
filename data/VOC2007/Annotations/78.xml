@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>78.jpg</filename>
+	<path>/home/occipital/Downloads/results/dataset/Images/78.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>2666</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>marker</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>1038</ymin>
+			<xmax>313</xmax>
+			<ymax>1241</ymax>
+		</bndbox>
+	</object>
+</annotation>
