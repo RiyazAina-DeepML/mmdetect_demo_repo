@@ -1,26 +1,26 @@
 <annotation>
-	<folder>large_disease_datasets_24aug2019</folder>
-	<filename>marker_471_Og.jpg</filename>
-	<path>/media/occipital/D4EC976FEC974A9E/MRCNN_copy/dataset/2.jpg</path>
+	<folder>Images</folder>
+	<filename>2.jpg</filename>
+	<path>/home/occipital/Downloads/results/dataset/Images/2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>512</width>
-		<height>512</height>
+		<width>2592</width>
+		<height>4608</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>agx</name>
+		<name>marker</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>795</xmin>
-			<ymin>4084</ymin>
-			<xmax>1665</xmax>
-			<ymax>3072</ymax>
+			<xmin>413</xmin>
+			<ymin>3000</ymin>
+			<xmax>2084</xmax>
+			<ymax>4125</ymax>
 		</bndbox>
 	</object>
 </annotation>
