@@ -3,3 +3,5 @@
 __pycache__
 .vscode/
 experiments/
+regression_bbox_dataset/
+*.zip
